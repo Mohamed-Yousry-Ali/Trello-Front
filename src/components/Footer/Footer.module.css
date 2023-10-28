@@ -1,0 +1,13 @@
+.foot{
+    background-color: #000;
+    padding: 20px 0;
+    border-top: 0.3px solid #6c4d7f;
+}
+
+.words{
+    color: #f7ea66;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
